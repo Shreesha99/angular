@@ -39,5 +39,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 Readme file is being updated for this project to TASK-1
 This is a change number 2
 This commit will bring some formatting to app component
-This commit will bring some changes to the app component
-testing deployed api and evverything on vercel and all services
+test commit
