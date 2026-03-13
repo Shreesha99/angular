@@ -37,6 +37,5 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
 Readme file is being updated for this project to TASK-1
-This is a change number 2
-This commit will bring some formatting to app component
-test commit
+TASK-10 test
+TASK test number 9 test
